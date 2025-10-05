@@ -86,9 +86,7 @@ Array accesses: 9084
 
 The performance plot for HeapSort will be saved in the `performance-plots/` folder, showing how the algorithm scales with increasing input sizes.
 
-## License
 
-This project is licensed under the MIT License.
 
 ## Contact
 
