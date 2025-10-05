@@ -4,23 +4,9 @@
 
 This project implements the **HeapSort** algorithm using the **in-place bottom-up heapify** method. It includes performance tracking, benchmark testing, and graphical representation of the algorithm's performance. The implementation tracks key operations such as comparisons, swaps, array accesses, and memory allocations. The project also includes a **CLI interface** to run the algorithm and gather performance metrics.
 
-## Project Structure
 
-assignment2-heapsort/
-├── src/main/java/
-│ ├── algorithms/HeapSort.java # Main HeapSort algorithm implementation
-│ ├── metrics/PerformanceTracker.java # Metrics collection for comparisons, swaps, etc.
-│ └── cli/BenchmarkRunner.java # CLI interface to run and benchmark the algorithm
-├── src/test/java/
-│ └── algorithms/HeapSortTest.java # Unit tests for the HeapSort algorithm
-├── docs/
-│ ├── analysis-report.pdf # Report analyzing the algorithm's performance
-│ └── performance-plots/ # Folder containing performance plot images
-├── README.md # Project overview, usage instructions, and analysis
-└── pom.xml # Maven build configuration
 
-markdown
-Copy code
+
 
 ## Features
 
@@ -91,3 +77,4 @@ The performance plot for HeapSort will be saved in the `performance-plots/` fold
 ## Contact
 
 For any questions or further information, feel free to contact [https://github.com/bexiiiii](https://github.com/bexiiiii).
+
